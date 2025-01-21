@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\Weekly Expense Calculator\Weekly Expense Calculator\bin\Debug\Weekly Expense Calculator.exe.config
+C:\Users\ABC\source\repos\Weekly Expense Calculator\Weekly Expense Calculator\bin\Debug\Weekly Expense Calculator.exe
+C:\Users\ABC\source\repos\Weekly Expense Calculator\Weekly Expense Calculator\bin\Debug\Weekly Expense Calculator.pdb
+C:\Users\ABC\source\repos\Weekly Expense Calculator\Weekly Expense Calculator\obj\Debug\Weekly Expense Calculator.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Weekly Expense Calculator\Weekly Expense Calculator\obj\Debug\Weekly Expense Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Weekly Expense Calculator\Weekly Expense Calculator\obj\Debug\Weekly Expense Calculator.exe
+C:\Users\ABC\source\repos\Weekly Expense Calculator\Weekly Expense Calculator\obj\Debug\Weekly Expense Calculator.pdb
